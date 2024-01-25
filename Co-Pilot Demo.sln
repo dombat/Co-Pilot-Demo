@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTO GH Chat Toast Sample", "Forms Region Sample\VSTO GH Chat Toast Sample.csproj", "{A98117EE-9B94-4800-A3FA-8E22763D5DCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F409178-FD02-4322-8C28-E87951D0F45C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GH Co-Pilot Library", "GH Co-Pilot Library\GH Co-Pilot Library.csproj", "{D450A30F-B357-48EF-A63B-0E3371141B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98117EE-9B94-4800-A3FA-8E22763D5DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98117EE-9B94-4800-A3FA-8E22763D5DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98117EE-9B94-4800-A3FA-8E22763D5DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98117EE-9B94-4800-A3FA-8E22763D5DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D450A30F-B357-48EF-A63B-0E3371141B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D450A30F-B357-48EF-A63B-0E3371141B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D450A30F-B357-48EF-A63B-0E3371141B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D450A30F-B357-48EF-A63B-0E3371141B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85235817-9755-4BD2-9D6F-8DFDE7BBC2B6}
+	EndGlobalSection
+EndGlobal

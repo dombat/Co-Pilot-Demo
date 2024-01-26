@@ -222,6 +222,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BadCode.cs" />
+    <Compile Include="HttpPost.cs" />
     <None Include="app.config" />
     <None Include="packages.config" />
     <None Include="Pipeline.yaml" />
